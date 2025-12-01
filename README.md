@@ -1,5 +1,8 @@
 # Cognitive Types Hypothesis（仮題）
 
+## English Version
+[Click here to read the English README](README_en.md)
+
 ## 概要
 このリポジトリは、Cognitive Types Hypothesis に関する論文草案を管理するためのものです。
 root フォルダには作業用のメモや考察ファイルが多数存在しますが、Git 管理の対象外です。
