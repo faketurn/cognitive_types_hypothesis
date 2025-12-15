@@ -1,19 +1,41 @@
+---
+title: "Beyond the Medical Model: The Two-Type Theory of Human Cognition and the Proposal for Cognitive Segregation"
+author:
+  - name: Shoji Nakanishi
+    affiliation: Independent Researcher
+    email: faketurn@gmail.com
+license: CC BY 4.0
+abstract: |
+  The medical model of developmental disorders enumerates symptoms but fails to capture the lived experiences of individuals. This paper proposes a hypothesis that there exist two fundamentally distinct types of human cognition: hierarchical and non-hierarchical. In hierarchical cognition, information is organized in hierarchical structures, whereas in non-hierarchical cognition, it exists in network structures. This fundamental difference in cognitive structure expands from a four-quadrant model to an eight-quadrant model through combinations of dominant modality (language-dominant or body-dominant) and levels of metacognition (high, moderate, or low).
+
+  This framework enables the reinterpretation of existing diagnoses as cognitive structures. Autism Spectrum Disorder (ASD) represents the difficulty hierarchical cognition encounters when facing elements that cannot be hierarchically organized, manifesting differently across language-dominant and body-dominant types according to metacognitive levels. Attention-Deficit/Hyperactivity Disorder (ADHD) represents the difficulty non-hierarchical cognition faces in adapting to hierarchically structured societies, divided into language-dominant (predominantly inattentive) and body-dominant (predominantly hyperactive-impulsive) presentations. The co-occurrence of ASD and ADHD is explained uniformly as a state with moderate levels of metacognition.
+
+  Contemporary society is optimized for hierarchical cognition in language, institutions, and economy, forcing individuals with non-hierarchical cognition to bear the chronic burden of "translating" their cognitive style into hierarchical forms (translation cost). This translation cost manifests as physical symptoms, mental exhaustion, and social maladjustment. Rather than "inclusion," which functions as de facto assimilation pressure, this paper proposes "Structural Differentiation." Structural Differentiation refers to the deliberate design of social, institutional, and informational environments optimized for distinct cognitive structures, enabling each cognitive type to live in environments aligned with their inherent organization principles. This can be realized spatially, institutionally, and informationally, reducing translation costs and maximizing the capacities of each type.
+
+  This theory reconceptualizes developmental disorders not as "disorders" but as "differences in cognitive type," calling for the redesign of social structures rather than the treatment of individuals. Future directions include elucidating the neuroscientific foundations, developing measurement methods for the eight-quadrant model, and conducting experiments in Structural Differentiation.
+keywords:
+  - cognitive diversity
+  - developmental disorders
+  - autism spectrum disorder (ASD)
+  - attention-deficit/hyperactivity disorder (ADHD)
+  - AuDHD
+  - hierarchical cognition
+  - non-hierarchical cognition
+  - dominant modality
+  - metacognition
+  - translation cost
+  - Structural Differentiation
+  - neurodiversity
+  - social model of disability
+---
+
+
+
 # Beyond the Medical Model: The Two-Type Theory of Human Cognition and the Proposal for Cognitive Segregation
 
 Author: Shoji Nakanishi
 Lisense: Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
-# Abstract
-
-The medical model of developmental disorders enumerates symptoms but fails to capture the lived experiences of individuals. This paper proposes a hypothesis that there exist two fundamentally distinct types of human cognition: hierarchical and non-hierarchical. In hierarchical cognition, information is organized in hierarchical structures, whereas in non-hierarchical cognition, it exists in network structures. This fundamental difference in cognitive structure expands from a four-quadrant model to an eight-quadrant model through combinations of dominant modality (language-dominant or body-dominant) and levels of metacognition (high, moderate, or low).
-
-This framework enables the reinterpretation of existing diagnoses as cognitive structures. Autism Spectrum Disorder (ASD) represents the difficulty hierarchical cognition encounters when facing elements that cannot be hierarchically organized, manifesting differently across language-dominant and body-dominant types according to metacognitive levels. Attention-Deficit/Hyperactivity Disorder (ADHD) represents the difficulty non-hierarchical cognition faces in adapting to hierarchically structured societies, divided into language-dominant (predominantly inattentive) and body-dominant (predominantly hyperactive-impulsive) presentations. The co-occurrence of ASD and ADHD is explained uniformly as a state with moderate levels of metacognition.
-
-Contemporary society is optimized for hierarchical cognition in language, institutions, and economy, forcing individuals with non-hierarchical cognition to bear the chronic burden of "translating" their cognitive style into hierarchical forms (translation cost). This translation cost manifests as physical symptoms, mental exhaustion, and social maladjustment. Rather than "inclusion," which functions as de facto assimilation pressure, this paper proposes "Structural Differentiation." Structural Differentiation refers to the deliberate design of social, institutional, and informational environments optimized for distinct cognitive structures, enabling each cognitive type to live in environments aligned with their inherent organization principles. This can be realized spatially, institutionally, and informationally, reducing translation costs and maximizing the capacities of each type.
-
-This theory reconceptualizes developmental disorders not as "disorders" but as "differences in cognitive type," calling for the redesign of social structures rather than the treatment of individuals. Future directions include elucidating the neuroscientific foundations, developing measurement methods for the eight-quadrant model, and conducting experiments in Structural Differentiation.
-
-**Keywords:** cognitive diversity; developmental disorders; autism spectrum disorder (ASD); attention-deficit/hyperactivity disorder (ADHD); AuDHD; hierarchical cognition; non-hierarchical cognition; dominant modality; metacognition; translation cost; Structural Differentiation; neurodiversity; social model of disability
 
 # 1. Introduction
 
