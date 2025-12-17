@@ -1560,48 +1560,49 @@ Finally, to all those who live with a similar, unnamed sense of dissonance: I ho
 
 # References
 
-American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing.
+American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing. https://doi.org/10.1176/appi.books.9780890425596
 
-Barkley, R. A. (1997). Behavioral inhibition, sustained attention, and executive functions: Constructing a unifying theory of ADHD. *Psychological Bulletin*, 121(1), 65–94.
+Barkley, R. A. (1997). Behavioral inhibition, sustained attention, and executive functions: Constructing a unifying theory of ADHD. *Psychological Bulletin*, 121(1), 65–94. https://doi.org/10.1037/0033-2909.121.1.65
 
-Baron-Cohen, S. (2009). Autism: The empathizing–systemizing (E-S) theory. *Annals of the New York Academy of Sciences*, 1156, 68–80.
+Baron-Cohen, S. (2009). Autism: The empathizing–systemizing (E-S) theory. *Annals of the New York Academy of Sciences*, 1156, 68–80. https://doi.org/10.1111/j.1749-6632.2009.04467.x
 
 Oliver, M. (1990). *The politics of disablement*. Macmillan.
 
-Shakespeare, T. (2006). *Disability rights and wrongs*. Routledge.
+Shakespeare, T. (2006). *Disability rights and wrongs*. Routledge. https://doi.org/10.4324/9780203640098
 
 Silberman, S. (2015). *NeuroTribes: The legacy of autism and the future of neurodiversity*. Avery.
 
 Singer, J. (1998). *Odd people in: The birth of community amongst people on the autism spectrum*. Honours thesis, University of Technology Sydney.
 
-World Health Organization. (2019). *International classification of diseases* (11th ed.). WHO.
+World Health Organization. (2019). *International classification of diseases* (11th ed.). WHO. https://icd.who.int/
 
 ## Additional Recommended Literature (by Category)
 
 ### Neurodiversity and Insider Research
 
-* Chapman, R. (2020). The reality of autism: On the metaphysics of disorder and diversity. *Philosophical Psychology*, 33(6), 799–819.
-* Walker, N. (2014). Neurodiversity: Some basic terms and definitions. *Neurocosmopolitanism*.
+* Chapman, R. (2020). The reality of autism: On the metaphysics of disorder and diversity. *Philosophical Psychology*, 33(6), 799–819. https://doi.org/10.1080/09515089.2020.1751103
+* Walker, N. (2014). Neurodiversity: Some basic terms and definitions. *Neurocosmopolitanism*. https://neuroqueer.com/neurodiversity-terms-and-definitions/
 
 ### Cognitive Science and Network Theory
 
-* Sporns, O. (2011). *Networks of the brain*. MIT Press.
-* Bassett, D. S., & Bullmore, E. T. (2017). Small-world brain networks revisited. *The Neuroscientist*, 23(5), 499–516.
+* Sporns, O. (2011). *Networks of the brain*. MIT Press. https://doi.org/10.7551/mitpress/8476.001.0001
+* Bassett, D. S., & Bullmore, E. T. (2017). Small-world brain networks revisited. *The Neuroscientist*, 23(5), 499–516. https://doi.org/10.1177/1073858416667720
 
 ### Disability Studies and the Social Model
 
-* Goodley, D. (2017). *Disability studies: An interdisciplinary introduction* (2nd ed.). SAGE.
-* Garland-Thomson, R. (2002). Integrating disability, transforming feminist theory. *NWSA Journal*, 14(3), 1–32.
+* Goodley, D. (2017). *Disability studies: An interdisciplinary introduction* (2nd ed.). SAGE. https://doi.org/10.1080/0312407X.2018.1525787
+* Garland-Thomson, R. (2002). Integrating disability, transforming feminist theory. *NWSA Journal, 14*(3), 1–32. https://doi.org/10.1353/nwsa.2003.0005
+
 
 ### ASD Research
 
-* Happé, F., & Frith, U. (2006). The weak coherence account: Detail-focused cognitive style in autism spectrum disorders. *Journal of Autism and Developmental Disorders*, 36(1), 5–25.
-* Mottron, L., et al. (2006). Enhanced perceptual functioning in autism: An update, and eight principles of autistic perception. *Journal of Autism and Developmental Disorders*, 36(1), 27–43.
+* Happé, F., & Frith, U. (2006). The weak coherence account: Detail-focused cognitive style in autism spectrum disorders. *Journal of Autism and Developmental Disorders*, 36(1), 5–25. https://doi.org/10.1007/S10803-005-0039-0
+* Mottron, L., et al. (2006). Enhanced perceptual functioning in autism: An update, and eight principles of autistic perception. *Journal of Autism and Developmental Disorders*, 36(1), 27–43. https://doi.org/10.1007/s10803-005-0040-7
 
 ### ADHD Research
 
-* Sonuga-Barke, E. J. S. (2005). Causal models of attention-deficit/hyperactivity disorder: From common simple deficits to multiple developmental pathways. *Biological Psychiatry*, 57(11), 1231–1238.
-* Nigg, J. T., et al. (2005). Executive functions and ADHD in adults: Evidence for selective effects on ADHD symptom domains. *Journal of Abnormal Psychology*, 114(3), 706–717.
+* Sonuga-Barke, E. J. S. (2005). Causal models of attention-deficit/hyperactivity disorder: From common simple deficits to multiple developmental pathways. *Biological Psychiatry*, 57(11), 1231–1238. https://doi.org/10.1016/j.biopsych.2004.09.008
+* Nigg, J. T., et al. (2005). Executive functions and ADHD in adults: Evidence for selective effects on ADHD symptom domains. *Journal of Abnormal Psychology*, 114(3), 706–717. https://doi.org/10.1037/0021-843X.114.3.706
 
 ### Learning Theory
 
@@ -1615,16 +1616,16 @@ World Health Organization. (2019). *International classification of diseases* (1
 
 ### Systemizing Theory
 
-* Baron-Cohen, S., et al. (2003). The Systemizing Quotient: An investigation of adults with Asperger syndrome or high-functioning autism. *Philosophical Transactions of the Royal Society B*, 358(1430), 361–374.
+* Baron-Cohen, S., et al. (2003). The Systemizing Quotient: An investigation of adults with Asperger syndrome or high-functioning autism. *Philosophical Transactions of the Royal Society B*, 358(1430), 361–374. https://doi.org/10.1098/rstb.2002.1206
 
 ### Giftedness and Twice-Exceptionality (2E)
 
 * Silverman, L. K. (2013). *Giftedness 101*. Springer.
-* Foley-Nicpon, M., et al. (2011). Empirical investigation of twice-exceptionality: Where have we been and where are we going? *Gifted Child Quarterly*, 55(1), 3–17.
+* Foley-Nicpon, M., et al. (2011). Empirical investigation of twice-exceptionality: Where have we been and where are we going? *Gifted Child Quarterly*, 55(1), 3–17. https://doi.org/10.1177/0016986210382575
 
 ### Translation and Bilingualism (Metaphorical Reference)
 
-* Grosjean, F. (2010). *Bilingual: Life and reality*. Harvard University Press.
+* Grosjean, F. (2010). *Bilingual: Life and reality*. Harvard University Press. https://doi.org/10.4159/9780674056459
 
 ### Social Constructionism
 
@@ -1638,7 +1639,7 @@ World Health Organization. (2019). *International classification of diseases* (1
 
 ### Autoethnography and Insider Research Methodology
 
-* Ellis, C., et al. (2011). Autoethnography: An overview. *Forum: Qualitative Social Research*, 12(1), Art. 10.
+* Ellis, C., et al. (2011). Autoethnography: An overview. *Forum: Qualitative Social Research*, 12(1), Art. 10. https://doi.org/10.17169/fqs-12.1.1589
 * Kumagaya, S., & Ayaya, S. (2010). *Tsugarari no sahō: Onaji demo naku, chigau demo naku* [*Practices of connection: Neither the same nor different*]. NHK Publishing.
 
 # Appendix
@@ -1864,8 +1865,8 @@ Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning
 
 Coffield, F., Moseley, D., Hall, E., & Ecclestone, K. (2004). *Learning styles and pedagogy in post-16 learning: A systematic and critical review*. Learning and Skills Research Centre.
 
-Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. *Psychological Science in the Public Interest*, 9(3), 105-119.
+Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. *Psychological Science in the Public Interest*, 9(3), 105-119. https://doi.org/10.1111/j.1539-6053.2009.01038.x
 
-Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice*, 41(2), 64-70.
+Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice*, 41(2), 64-70. https://doi.org/10.1207/s15430421tip4102_2
 
 **This supplementary material is an appendix to the main paper and is not a standalone article. It provides a more detailed development of the critique of Kolb's learning theory. In the future, it may be possible to develop this into an independent paper based on this foundation.**
