@@ -1,17 +1,25 @@
 ---
 title: "Beyond the Medical Model: The Two-Type Theory of Human Cognition and the Proposal for Cognitive Segregation"
 author:
-  - name: Shoji Nakanishi
-    affiliation: Independent Researcher
-    email: faketurn@gmail.com
+  - Shoji Nakanishi
+header-includes: |
+  \usepackage{authblk}
+  \renewcommand\Authfont{\normalsize}
+  \renewcommand\Affilfont{\small}
+  \author{Shoji Nakanishi}
+  \affil{Independent Researcher}
+  \affil{\small faketurn@gmail.com}
+  \usepackage{float}
+  \floatplacement{table}{H}
+date: ""
 license: CC BY 4.0
 abstract: |
   The medical model of developmental disorders enumerates symptoms but fails to capture the lived experiences of individuals. This paper proposes a hypothesis that there exist two fundamentally distinct types of human cognition: hierarchical and non-hierarchical. In hierarchical cognition, information is organized in hierarchical structures, whereas in non-hierarchical cognition, it exists in network structures. This fundamental difference in cognitive structure expands from a four-quadrant model to an eight-quadrant model through combinations of dominant modality (language-dominant or body-dominant) and levels of metacognition (high, moderate, or low).
-
+  \par
   This framework enables the reinterpretation of existing diagnoses as cognitive structures. Autism Spectrum Disorder (ASD) represents the difficulty hierarchical cognition encounters when facing elements that cannot be hierarchically organized, manifesting differently across language-dominant and body-dominant types according to metacognitive levels. Attention-Deficit/Hyperactivity Disorder (ADHD) represents the difficulty non-hierarchical cognition faces in adapting to hierarchically structured societies, divided into language-dominant (predominantly inattentive) and body-dominant (predominantly hyperactive-impulsive) presentations. The co-occurrence of ASD and ADHD is explained uniformly as a state with moderate levels of metacognition.
-
+  \par
   Contemporary society is optimized for hierarchical cognition in language, institutions, and economy, forcing individuals with non-hierarchical cognition to bear the chronic burden of "translating" their cognitive style into hierarchical forms (translation cost). This translation cost manifests as physical symptoms, mental exhaustion, and social maladjustment. Rather than "inclusion," which functions as de facto assimilation pressure, this paper proposes "Structural Differentiation." Structural Differentiation refers to the deliberate design of social, institutional, and informational environments optimized for distinct cognitive structures, enabling each cognitive type to live in environments aligned with their inherent organization principles. This can be realized spatially, institutionally, and informationally, reducing translation costs and maximizing the capacities of each type.
-
+  \par
   This theory reconceptualizes developmental disorders not as "disorders" but as "differences in cognitive type," calling for the redesign of social structures rather than the treatment of individuals. Future directions include elucidating the neuroscientific foundations, developing measurement methods for the eight-quadrant model, and conducting experiments in Structural Differentiation.
 keywords:
   - cognitive diversity
@@ -28,6 +36,7 @@ keywords:
   - neurodiversity
   - social model of disability
 ---
+
 
 
 # Introduction
@@ -159,8 +168,15 @@ Metacognition refers to the ability to recognize, monitor, and regulate one’s 
 
 By dividing metacognition into three levels (high, moderate, low), the four quadrants expand into eight clinically salient positions (strictly speaking, twelve are possible, but eight are most relevant):
 
+
+
+
+
+
+: Table caption {#tbl:id}
+
 | Cognitive structure  | Dominant modality     | High metacognition                                            | Moderate metacognition                                      | Low metacognition                                                              |
-| -------------------- | --------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| -------------------- | --------------------- |  -------------------- |  -------------------- |  -------------------- |
 | **Hierarchical**     | **Language-dominant** | Logical scholars, legal professionals (typically developed)   | Linguistic systemizers with weak tacit knowledge (mild ASD) | Linguistic disorganization: severe difficulty with social context (severe ASD) |
 | **Hierarchical**     | **Body-dominant**     | Skilled artisans, engineers, architects (typically developed) | Motor systemizers with weak abstraction (mild ASD)          | Bodily disorganization: severe difficulty with abstract language (severe ASD)  |
 | **Non-hierarchical** | **Language-dominant** | Creative scientists, strategists (“galaxy type”)              | Linguistic explorers burdened by translation (AuDHD)        | Linguistic diffusion: attentional overload (ADHD, inattentive type)            |
@@ -407,21 +423,21 @@ Historically, diagnostic frameworks distinguished between language-dominant pres
 
 However, this unification obscured the internal diversity of ASD. The present theory clarifies that this diversity is not arbitrary but systematically structured by the interaction of cognitive structure, dominant modality, and level of metacognition. ASD is therefore not a single disorder but a constellation of positions within a three-dimensional cognitive space.
 
-## **3.2 Reinterpretation of ADHD**
+## Reinterpretation of ADHD
 
-### **3.2.1 Conventional Understanding**
+### Conventional Understanding
 
 In DSM-5, Attention-Deficit/Hyperactivity Disorder (ADHD) is defined by two core symptom clusters: **inattention** and **hyperactivity–impulsivity**. Neuropsychological research has traditionally conceptualized ADHD as a disorder of **executive function** (Barkley, 1997). Executive functions refer to higher-order cognitive processes such as behavioral inhibition, working memory, planning, and problem solving.
 
 However, while this framework describes *which functions fail to operate as expected* within a hierarchically structured society, it does not sufficiently explain *why* these functions fail, nor does it clarify the underlying **cognitive structure** that gives rise to ADHD-related behaviors. As a result, executive dysfunction is often treated as a deficit intrinsic to the individual, rather than as a mismatch between cognitive structure and social demands.
 
-### **3.2.2 ADHD in the Present Theory: Non-Hierarchical Cognition and Dominant Modality**
+### ADHD in the Present Theory: Non-Hierarchical Cognition and Dominant Modality
 
 In the present theoretical framework, ADHD is reconceptualized as **the difficulty experienced by individuals with non-hierarchical cognition when adapting to a hierarchically structured society**—particularly one that demands planning, prioritization, linear time management, and rule-based behavioral inhibition.
 
 Furthermore, differences in **dominant modality (language-dominant vs. body-dominant)** account for the traditional distinction between the inattentive and hyperactive–impulsive presentations of ADHD.
 
-#### **Non-Hierarchical × Language-Dominant × Low Metacognition: Predominantly Inattentive Type**
+#### Non-Hierarchical × Language-Dominant × Low Metacognition: Predominantly Inattentive Type
 
 **Cognitive Structural Characteristics**
 
@@ -449,7 +465,7 @@ Linguistic and conceptual activity is highly active. Ideas emerge rapidly and in
 
 Individuals in this quadrant are often described as “intelligent but inexplicably incapable of execution.” Despite high intellectual potential, they fail to meet the executive demands of hierarchical society and are frequently misinterpreted as lazy or unmotivated.
 
-#### **Non-Hierarchical × Body-Dominant × Low Metacognition: Predominantly Hyperactive–Impulsive Type**
+#### Non-Hierarchical × Body-Dominant × Low Metacognition: Predominantly Hyperactive–Impulsive Type
 
 **Cognitive Structural Characteristics**
 
@@ -489,11 +505,11 @@ Bodily sensation, movement, and spatial exploration form the core of cognition. 
 
 Such individuals are frequently labeled as “restless” or “problematic.” Natural exploratory bodily activity conflicts with hierarchical social norms emphasizing stillness, order, and planning, leading to moralized misinterpretations such as poor discipline or selfishness.
 
-#### **Understanding the Combined Presentation**
+#### Understanding the Combined Presentation
 
 DSM-5 identifies a *combined presentation* in which both inattentive and hyperactive–impulsive features are prominent. In the present theory, this corresponds to a state in which **both linguistic and bodily modalities are non-hierarchically activated**, with dominance fluctuating depending on context rather than remaining fixed.
 
-#### **Reinterpreting Executive Dysfunction**
+#### Reinterpreting Executive Dysfunction
 
 ADHD has long been conceptualized as a disorder of executive function (Barkley, 1997). In contrast, the present framework argues that ADHD does not reflect a failure of executive function per se, but rather the **presence of a non-hierarchical executive system operating within a hierarchically structured society**.
 
@@ -618,22 +634,18 @@ For many individuals with AuDHD, environmental pressures—such as those encount
 
 The author’s long-term self-analysis illustrates a developmental trajectory in which **non-hierarchical × language-dominant cognition** progresses through stages of metacognitive development (low → moderate → high), ultimately reaching the *galaxy type*. This pathway highlights, through contrast with AuDHD, the decisive importance of metacognitive level.
 
----
-
 #### Early Childhood (Ages 0–6): The Foundation of Non-Hierarchical × Low Metacognition
 
 The author’s innate cognitive structure was non-hierarchical and language-dominant. Information was processed in a parallel and associative manner, with active verbal thinking. However, metacognition was underdeveloped, and there was no awareness of one’s own cognitive style.
 
 **Manifestations of ADHD-like traits:**
 
-* **Hyperactivity:** constant movement and inability to remain still
-* **Impulsivity:** immediate action upon arising thoughts
-* **Diffuse attention:** interest in everything but difficulty sustaining focus
-* **Lack of temporal awareness:** immersion in the “now,” with little sense of past or future
+- **Hyperactivity:** constant movement and inability to remain still
+- **Impulsivity:** immediate action upon arising thoughts
+- **Diffuse attention:** interest in everything but difficulty sustaining focus
+- **Lack of temporal awareness:** immersion in the “now,” with little sense of past or future
 
 This stage corresponds directly to typical ADHD (non-hierarchical × low metacognition).
-
----
 
 #### School Age (Ages 7–12): Forced Construction of a Translation Layer and Transition to Moderate Metacognition
 
@@ -669,8 +681,6 @@ These episodes demonstrate that even in non-hierarchical × language-dominant in
 **Chronic headaches: persistence of translation cost**
 
 Chronic headaches, continuing from this period to the present (age 45), can also be interpreted as the embodiment of translation cost. The cognitive burden of dual processing (a non-hierarchical core plus a hierarchical layer) manifests as somatic symptoms.
-
----
 
 #### Adolescence (Ages 13–18): Nihilism and Exhaustion at Moderate Metacognition
 
@@ -1634,7 +1644,8 @@ World Health Organization. (2019). *International classification of diseases* (1
 # Appendix
 
 ## Supplementary Material: Critique of Kolb's Learning Theory
-### Reinterpretation from the Two-Type Theory of Human Cognition
+
+**Reinterpretation from the Two-Type Theory of Human Cognition**
 
 ### Introduction
 
