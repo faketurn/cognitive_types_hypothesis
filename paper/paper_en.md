@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Medical Model: The Two-Type Theory of Human Cognition and the Proposal for Cognitive Segregation"
+title: "Beyond the Medical Model: The Two-Type Theory of Human Cognition and the Proposal for Cognitive Segregation (Voluntary Separation as Liberation)"
 author:
   - Shoji Nakanishi
 header-includes: |
@@ -8,7 +8,7 @@ header-includes: |
   \renewcommand\Affilfont{\small}
   \author{Shoji Nakanishi}
   \affil{Independent Researcher}
-  \affil{\small faketurn@gmail.com}
+  \affil{\small https://orcid.org/0009-0009-0782-1411}
   \usepackage{float}
   \floatplacement{table}{H}
 date: ""
