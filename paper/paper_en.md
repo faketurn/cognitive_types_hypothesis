@@ -30,18 +30,11 @@ keywords:
 ---
 
 
-
-# Beyond the Medical Model: The Two-Type Theory of Human Cognition and the Proposal for Cognitive Segregation
-
-Author: Shoji Nakanishi
-Lisense: Creative Commons Attribution 4.0 International License (CC BY 4.0)
-
-
 # 1. Introduction
 
 ## 1.1 The Gap Between Lived Experience and Diagnostic Criteria
 
-Individuals who have received a diagnosis of a developmental disorder—and those who have not been formally diagnosed but recognize that their cognitive style differs from what is considered “typical development”—often experience a profound gap between existing diagnostic criteria and their own lived experience. Contemporary diagnostic systems such as the *Diagnostic and Statistical Manual of Mental Disorders* (DSM-5; American Psychiatric Association, 2013) and the *International Classification of Diseases* (ICD-11; World Health Organization, 2019) define Autism Spectrum Disorder (ASD) and Attention-Deficit/Hyperactivity Disorder (ADHD primarily through enumerations of observable behavioral symptoms.
+Individuals who have received a diagnosis of a developmental disorder—and those who have not been formally diagnosed but recognize that their cognitive style differs from what is considered “typical development”—often experience a profound gap between existing diagnostic criteria and their own lived experience. Contemporary diagnostic systems such as the *Diagnostic and Statistical Manual of Mental Disorders* (DSM-5; American Psychiatric Association, 2013) and the *International Classification of Diseases* (ICD-11; World Health Organization, 2019) define Autism Spectrum Disorder (ASD) and Attention-Deficit/Hyperactivity Disorder (ADHD) primarily through enumerations of observable behavioral symptoms.
 
 ASD is characterized by “persistent deficits in social communication and social interaction” and “restricted, repetitive patterns of behavior, interests, or activities,” while ADHD is described in terms of “inattention,” “hyperactivity,” and “impulsivity.” These descriptions, however, are limited to externally observable behaviors. They do not adequately capture the internal cognitive processes through which individuals actually experience the world.
 
@@ -50,8 +43,6 @@ For example, what is labeled as “inattention” may reflect not a lack of atte
 An additional and more fundamental problem is that these diagnostic frameworks presuppose the concept of “disorder.” Many individuals do not experience themselves as “malfunctioning versions of typical development.” Rather, they live with a persistent sense of friction—an ongoing question of why everyday life feels disproportionately exhausting, confusing, or overwhelming. While this friction is often medicalized as a collection of symptoms, its deeper source may lie in a mismatch between a person’s cognitive structure and a society optimized for a different cognitive type.
 
 The author’s own long-term self-analysis emerged from precisely this unresolved sense of mismatch. Through systematic reflection on personal cognitive processes, this analysis converged on an interpretation based not on deficit, but on the existence of fundamentally different cognitive types. This paper seeks to formalize that interpretation and to provide conceptual language and structure for others who experience a similar form of cognitive dissonance.
-
----
 
 ## 1.2 Limitations of Existing Approaches
 
@@ -64,8 +55,6 @@ The **social model of disability** (Oliver, 1990) shifts attention from individu
 The **neurodiversity movement** (Singer, 1998) challenges the pathologization of developmental differences by framing them as part of natural human variation. However, while it emphasizes acceptance and respect, it has not yet produced a systematic theoretical account of *how* cognitive structures differ, *why* these differences arise, or *why* coexistence within a single social structure is often so difficult. The concept of diversity alone does not explain the mechanisms that generate persistent cognitive friction.
 
 Taken together, these approaches have made essential contributions, yet none offers a unified theory that explains developmental diagnoses in terms of fundamental cognitive structures or derives concrete implications for social design from those differences. This paper aims to address that gap.
-
----
 
 ## 1.3 Aims and Structure of the Present Paper
 
@@ -135,8 +124,6 @@ By contrast, non-hierarchical cognition tends to preserve continuous information
 
 There exists an asymmetry in translation cost between these two strategies. Discretized information can be readily embedded within continuous representations, whereas translating continuous representations into discrete structures necessarily involves information loss. This asymmetry provides a structural explanation for why individuals with non-hierarchical cognition experience heightened explanatory burden and stress associated with verbalization.
 
----
-
 ## 2.2 From Four Quadrants to Eight: A Model of Cognitive Differentiation
 
 This section refines the basic distinction between hierarchical and non-hierarchical cognition by introducing additional dimensions. First, a four-quadrant model incorporating dominant modality is presented. This is then expanded into an eight-quadrant model by incorporating level of metacognition.
@@ -164,9 +151,7 @@ Individuals with **non-hierarchical × language-dominant** cognition associate c
 
 Individuals with **non-hierarchical × body-dominant** cognition explore space and sensation in a network-like manner and respond improvisationally. They are common among artists, dancers, and designers, and may resist verbalization or rigid planning.
 
----
-
-## 2.2.2 Expansion via Metacognition: The Eight-Quadrant Model
+### 2.2.2 Expansion via Metacognition: The Eight-Quadrant Model
 
 While the four-quadrant model captures fundamental combinations of cognitive structure and modality, substantial individual differences remain within each quadrant. A critical dimension accounting for this variation is **level of metacognition**.
 
@@ -183,17 +168,15 @@ By dividing metacognition into three levels (high, moderate, low), the four quad
 
 This eight-quadrant model demonstrates that existing diagnostic categories—ASD, ADHD, and AuDHD—can be understood as positions within a three-dimensional space defined by cognitive structure, dominant modality, and level of metacognition. The following sections examine each quadrant in detail.
 
-## 2.2.3 Three Levels of Hierarchical × Language-Dominant Cognition
+### 2.2.3 Three Levels of Hierarchical × Language-Dominant Cognition
 
-### High Metacognition: Logical Scholars and Legal Professionals (Typically Developed)
+**High Metacognition: Logical Scholars and Legal Professionals (Typically Developed)**
 
 Individuals at this level possess a strong hierarchical and language-dominant cognitive structure and are able to consciously understand, monitor, and regulate their own cognitive processes. They excel in logical reasoning, abstract conceptualization, and the systematic construction of knowledge. Implicit social rules can be acquired through observation and explicit learning, allowing relatively smooth participation in social contexts.
 
 Because their cognitive structure aligns closely with the dominant organization of contemporary society, they are generally regarded as “typically developed.” They tend to thrive in fields that demand linguistic and logical systematization, such as academia, law, management, and bureaucracy.
 
----
-
-### Moderate Metacognition: Linguistic Systemizers with Weakness in Tacit Knowledge (Mild ASD)
+**Moderate Metacognition: Linguistic Systemizers with Weakness in Tacit Knowledge (Mild ASD)**
 
 Individuals at this level demonstrate exceptional abilities in logical and linguistic systematization, yet their metacognitive capacity is only moderate. As a result, they struggle with domains dominated by tacit knowledge, such as nonverbal communication, emotional nuance, and fluid social contexts.
 
@@ -201,93 +184,71 @@ They possess partial awareness of their own cognitive style but have limited cap
 
 Many individuals previously described as having “high-functioning autism” or Asperger’s syndrome fall within this category.
 
----
-
-### Low Metacognition: Linguistic Chaos and Severe Difficulty with Social Contexts (Severe ASD)
+**Low Metacognition: Linguistic Chaos and Severe Difficulty with Social Contexts (Severe ASD)**
 
 At this level, hierarchical tendencies in cognition remain present, but low metacognition prevents effective self-regulation. Logical coherence is difficult to maintain, and understanding social context is profoundly impaired. Even when linguistic ability itself is preserved, it cannot be effectively applied to social communication.
 
 Typical manifestations include echolalia, scripted speech, one-sided monologues, heightened sensory hypersensitivity, intense fixations, and panic responses to unpredictability. Individuals in this category often require substantial support. Because verbal fluency may mask underlying difficulties, their challenges are frequently misunderstood or underestimated.
 
----
+### 2.2.4 Three Levels of Hierarchical × Body-Dominant Cognition
 
-## 2.2.4 Three Levels of Hierarchical × Body-Dominant Cognition
-
-### High Metacognition: Craft-Oriented Engineers and Architects (Typically Developed)
+**High Metacognition: Craft-Oriented Engineers and Architects (Typically Developed)**
 
 Individuals at this level excel in spatial cognition, bodily control, and the hierarchical organization of procedural knowledge. They are able to reflect on their bodily and spatial cognition and, when necessary, translate it into linguistic form.
 
 They perform well in domains that require precise bodily control and spatial reasoning, such as craftsmanship, engineering, architecture, and surgery. While verbal explanation may not be their primary strength, they can systematically refine skills through practice and embodied experience.
 
----
-
-### Moderate Metacognition: Motor Systemizers with Weakness in Abstraction (Mild ASD)
+**Moderate Metacognition: Motor Systemizers with Weakness in Abstraction (Mild ASD)**
 
 These individuals are adept at organizing knowledge through bodily movement and spatial patterns but experience difficulty with abstract language, logical verbal explanation, and socially mediated linguistic communication.
 
 They possess partial awareness of their bodily cognitive style but have limited ability to verbalize it. As a result, they often struggle in language-centered educational environments while demonstrating exceptional competence in practical or hands-on tasks. A subset of individuals traditionally described as having “classic autism” belongs to this category.
 
----
-
-### Low Metacognition: Bodily Chaos and Severe Difficulty with Abstract Language (Severe ASD)
+**Low Metacognition: Bodily Chaos and Severe Difficulty with Abstract Language (Severe ASD)**
 
 At this level, bodily and spatial processing dominates cognition, but low metacognition prevents effective regulation. Linguistic communication is extremely limited or absent, and access to abstract reasoning is minimal.
 
 Common manifestations include nonverbal or highly restricted speech, immersion in sensory experiences, repetitive motor behaviors, and self-stimulatory actions (stimming) used for sensory regulation. Individuals in this group typically require intensive support, as bodily cognition is overwhelmed by unstructured sensory input and cannot be integrated into the linguistic social world.
 
----
+### 2.2.5 Three Levels of Non-Hierarchical × Language-Dominant Cognition
 
-## 2.2.5 Three Levels of Non-Hierarchical × Language-Dominant Cognition
-
-### High Metacognition: Creative Scientists and Strategists (Galaxy Type)
+**High Metacognition: Creative Scientists and Strategists (Galaxy Type)**
 
 Individuals with non-hierarchical and language-dominant cognition combined with high metacognition are capable of constructing a functional interface with hierarchically structured society. Through metacognitive awareness, they can consciously deploy hierarchical language and logic when required, while retaining non-linear and associative thinking.
 
 They possess a deep understanding of their own cognitive structure and can flexibly shift between cognitive modes. Such individuals often excel in fields that require both non-linear creativity and formal explanation, including theoretical science, strategy, entrepreneurship, and interdisciplinary innovation. The author of this paper belongs to this category.
 
----
-
-### Moderate Metacognition: Linguistic Explorers Exhausted by Translation (AuDHD)
+**Moderate Metacognition: Linguistic Explorers Exhausted by Translation (AuDHD)**
 
 Individuals in this category possess non-hierarchical cognition and partial metacognitive awareness. They attempt to construct a translation layer to adapt to hierarchical social demands, but this layer remains incomplete.
 
 Although they may appear socially functional, the continuous effort required for translation produces chronic exhaustion. Many individuals diagnosed with co-occurring ASD and ADHD (AuDHD), particularly those with language-dominant profiles, fall within this category.
 
----
-
-### Low Metacognition: Linguistic Diffusion and Loss of Focus (ADHD, Inattentive Presentation)
+**Low Metacognition: Linguistic Diffusion and Loss of Focus (ADHD, Inattentive Presentation)**
 
 At this level, non-hierarchical parallel processing dominates cognition, and low metacognition results in all information attracting equal attention. Linguistic thought is active but persistently diffusive, making sustained focus on a single task difficult.
 
 Hierarchical demands such as prioritization, planning, and time management are structurally incompatible with this cognitive organization. Consequently, individuals in this category are commonly evaluated as exhibiting “inattention,” corresponding to the inattentive presentation of ADHD.
 
----
+### 2.2.6 Three Levels of Non-Hierarchical × Body-Dominant Cognition
 
-## 2.2.6 Three Levels of Non-Hierarchical × Body-Dominant Cognition
-
-### High Metacognition: Artists, Dancers, and Designers (Galaxy Type)
+**High Metacognition: Artists, Dancers, and Designers (Galaxy Type)**
 
 Individuals in this category combine non-hierarchical bodily cognition with high metacognition. They understand their embodied, improvisational cognition and can consciously respond to hierarchical social demands when necessary.
 
 They excel in domains that require bodily improvisation and expressive creativity, such as visual arts, dance, design, and improvisational performance.
 
----
-
-### Moderate Metacognition: Bodily Explorers Experiencing Friction with Social Norms (AuDHD)
+**Moderate Metacognition: Bodily Explorers Experiencing Friction with Social Norms (AuDHD)**
 
 These individuals possess non-hierarchical bodily cognition and partial metacognitive awareness. They attempt to conform to social norms, but adaptation remains incomplete.
 
 They often experience chronic tension between bodily impulsivity and social expectations, leading to sustained fatigue. Many individuals diagnosed with AuDHD with body-dominant profiles fall into this category.
 
----
-
-### Low Metacognition: Bodily Impulsivity and Impaired Behavioral Control (ADHD, Hyperactive-Impulsive Presentation)
+**Low Metacognition: Bodily Impulsivity and Impaired Behavioral Control (ADHD, Hyperactive-Impulsive Presentation)**
 
 At this level, non-hierarchical bodily processing predominates, and low metacognition prevents regulation of bodily impulses. Individuals are unable to remain still and tend to act immediately.
 
 Hierarchical social requirements such as waiting, remaining stationary, and engaging in planned behavior are structurally incompatible with this cognitive organization. As a result, such individuals are commonly evaluated as exhibiting hyperactivity and impulsivity, corresponding to the hyperactive-impulsive presentation of ADHD.
-
----
 
 ## 2.3 Correspondence Between the Eight-Quadrant Model and Diagnostic Categories
 
@@ -299,15 +260,11 @@ Within this framework, ASD corresponds to quadrants characterized by **hierarchi
 
 Differences in metacognitive level account for observed variations commonly described as “mild” versus “severe” or “high-functioning” versus “low-functioning,” while differences in dominant modality explain linguistic versus bodily presentations.
 
----
-
 ### 2.3.2 Positioning of Attention-Deficit/Hyperactivity Disorder (ADHD)
 
 ADHD corresponds to quadrants characterized by **non-hierarchical cognition combined with low metacognition**. Core difficulties emerge when non-hierarchical cognitive organization confronts the linear demands of hierarchically structured society, including planning, prioritization, and time management.
 
 Differences between inattentive and hyperactive-impulsive presentations are explained as differences in dominant modality (language-dominant versus body-dominant), rather than as distinct underlying mechanisms.
-
----
 
 ### 2.3.3 Positioning of AuDHD
 
@@ -320,101 +277,135 @@ Two developmental origins of AuDHD can be distinguished:
 1. A non-hierarchical origin, in which individuals attempt to construct an incomplete translation layer toward hierarchical norms.
 2. A hierarchical origin, in which individuals attempt to incompletely acquire the processing of tacit knowledge.
 
----
-
 ### 2.3.4 An Integrative Perspective
 
 This theoretical framework offers an integrative perspective in which ASD, ADHD, and AuDHD are understood as different positions within a shared cognitive space rather than as mutually contradictory diagnoses. Diagnostic labels function merely as convenient markers indicating approximate locations within this space.
 
 What matters most is not the label itself, but the interaction between an individual’s cognitive structure and the surrounding social environment—and how this interaction shapes lived experience.
 
-## 3.1 Reinterpreting Autism Spectrum Disorder (ASD)
+# 3. Reinterpretation of Neurodevelopmental Diagnoses
+
+Using the theoretical framework of hierarchical and non-hierarchical cognition proposed in the previous chapter, this chapter reinterprets existing neurodevelopmental diagnoses. Through this lens, the cognitive structures underlying what are labeled as “symptoms” by diagnostic categories are brought into clearer focus.
+
+## 3.1 Reinterpretation of Autism Spectrum Disorder (ASD)
 
 ### 3.1.1 Conventional Understanding
 
-In the DSM-5, Autism Spectrum Disorder (ASD) is defined by two core domains:
+In the DSM-5, Autism Spectrum Disorder (ASD) is defined by two core features:
 (1) persistent deficits in social communication and social interaction, and
-(2) restricted, repetitive patterns of behavior, interests, or activities.
+(2) restricted, repetitive patterns of behavior, interests, or activities (American Psychiatric Association, 2013).
 
-Within cognitive psychology, one influential account is Baron-Cohen’s *Systemizing Theory*, which conceptualizes ASD as a cognitive profile characterized by a strong bias toward systemizing abilities and relatively weaker empathizing abilities. This framework has contributed to understanding certain strengths and difficulties observed in individuals with ASD, particularly in relation to rule-based reasoning and reduced intuitive sensitivity to social cues.
+Within cognitive psychology, one influential account is Baron-Cohen’s systemizing theory, which characterizes ASD as a cognitive profile marked by a strong bias toward systemizing—understood as the drive to analyze, construct, and predict rule-based systems—accompanied by relatively weaker empathizing capacities. This approach has contributed to reframing ASD not merely as a deficit, but as a distinctive cognitive style.
 
-However, these conventional accounts remain largely descriptive. They focus on *what appears difficult* at the behavioral level, rather than explaining *why* these difficulties arise from the underlying cognitive structure. Moreover, they implicitly assume that deviation from socially normative functioning constitutes impairment, without sufficiently examining the structural properties of cognition itself.
-
----
-
-### 3.1.2 Reinterpretation Within the Present Theoretical Framework
-
-Within the present framework, ASD is reconceptualized as **the difficulty experienced by individuals with hierarchical cognition when confronted with elements that cannot be hierarchically organized**.
-
-Hierarchical cognition operates by organizing information into explicit structures based on inclusion relations, priority ordering, and logical consistency. This mode of cognition functions effectively when information can be discretized, categorized, and embedded within stable hierarchical frameworks. However, many domains of human experience—particularly social interaction—are fundamentally non-hierarchical.
-
-Social communication relies heavily on implicit rules, fluid contextual shifts, affective signals, and temporally dynamic relationships. These elements resist stable hierarchical representation. For individuals with hierarchical cognition, this creates a structural mismatch: cognition attempts to impose hierarchical order on information that is intrinsically non-hierarchical. The resulting difficulty manifests as what is conventionally labeled “social communication deficits.”
-
-From this perspective, the core challenge in ASD does not lie in a lack of social motivation or capacity per se, but in a **structural incompatibility between hierarchical cognitive organization and non-hierarchical social information**.
+However, these conventional accounts remain largely descriptive. They catalog observable behaviors and tendencies but do not provide a sufficiently explicit model of the underlying cognitive structure that generates these patterns, nor do they adequately explain why such traits become disabling in particular social contexts.
 
 ---
 
-### 3.1.3 Restricted and Repetitive Patterns as Structural Stabilization
+### 3.1.2 Reinterpretation within the Present Theory
 
-Restricted and repetitive patterns of behavior, a defining feature of ASD in diagnostic criteria, can be reinterpreted as a **strong orientation toward structural stability and consistency**.
+Within the present theoretical framework, the core of ASD is reinterpreted as **the difficulty experienced by individuals with hierarchical cognition when they confront elements that cannot be hierarchically organized**.
 
-Routines, rituals, insistence on sameness, and highly focused interests serve a stabilizing function within hierarchical cognition. They reduce exposure to unstructured, unpredictable information and preserve the integrity of existing hierarchical frameworks. From this viewpoint, such behaviors are not arbitrary symptoms but adaptive strategies aimed at maintaining cognitive coherence.
+Hierarchical cognition operates by organizing information into explicit structures defined by inclusion relations, priority, and stable categories. Social interaction, however, is saturated with non-hierarchical elements: implicit rules, fluid relationships, context-dependent meanings, and rapidly shifting emotional cues. These elements resist stable hierarchical classification.
 
-Similarly, circumscribed interests can be understood as domains in which hierarchical structures can be elaborated to a high degree of precision. By refining and deepening a specific hierarchical system, individuals with ASD achieve clarity, predictability, and internal consistency—qualities that are otherwise difficult to sustain in socially fluid environments.
+From this perspective, difficulties in social communication do not stem from a lack of social motivation or intelligence, but from a structural mismatch. Individuals with hierarchical cognition attempt to process social information by imposing explicit hierarchical organization, yet much of social reality is fundamentally non-hierarchical. This mismatch renders social interaction structurally difficult rather than merely effortful.
 
----
+Restricted and repetitive patterns of behavior can be understood as expressions of a strong orientation toward structural stability and consistency. Routines, rituals, insistence on sameness, and narrow interests function as mechanisms for preserving hierarchical order in an otherwise unstable and unpredictable environment. Intense focus on specific domains reflects the hierarchical tendency to refine and elaborate a limited structure to a high degree of internal coherence.
 
-### 3.1.4 Sensory Sensitivity as Exposure to Non-Hierarchical Input
-
-Sensory hypersensitivity, frequently observed in individuals with ASD, can also be interpreted through the lens of cognitive structure. Sensory input is inherently continuous, multidimensional, and resistant to discrete categorization. For hierarchical cognition, which relies on discretization and categorization, raw sensory data represents unstructured input that is difficult to compress into hierarchical form.
-
-When sensory information cannot be effectively hierarchized, cognitive overload occurs. Sensory hypersensitivity thus reflects excessive exposure to non-hierarchical input rather than an intrinsic sensory abnormality. This interpretation aligns with the broader framework of **information compression strategies**, in which hierarchical cognition favors lossy discretization, while struggling with continuous data streams.
+Sensory hypersensitivity can likewise be reinterpreted as overload from unstructured sensory input. Hierarchical cognition seeks to discretize and organize sensory information, yet raw sensory experience is continuous and non-hierarchical by nature. When sensory input cannot be effectively hierarchized, excessive cognitive burden arises, resulting in hypersensitivity and distress.
 
 ---
 
-### 3.1.5 Modality and Metacognition: Explaining Phenotypic Diversity in ASD
+### 3.1.3 Variability of Expression by Modality and Level of Metacognition
 
-The heterogeneity observed within ASD can be systematically explained by differences in **dominant modality** (language-dominant vs. body-dominant) and **level of metacognition**.
+The manifestation of ASD varies substantially depending on the dominant modality (language-dominant vs. body-dominant) and the level of metacognition. This multidimensional variability explains phenomena that have traditionally been described using dichotomies such as “high-functioning vs. low-functioning” or “Asperger’s syndrome vs. classical autism.”
 
-#### Language-Dominant ASD
+#### Language-Dominant ASD: Three Levels
 
-**High metacognition (near-typical development):**
-Individuals in this category possess strong hierarchical and linguistic abilities alongside high metacognitive awareness. Although their cognition remains hierarchical, they are capable of consciously learning and applying implicit social rules. As a result, ASD-related traits may be perceived as idiosyncratic personality features rather than clinical symptoms. Such individuals often succeed in domains that reward logical consistency and explicit reasoning, including academia, law, and information technology.
+**High Metacognition (Near-Typical Development): Logical Scholars and Legal Thinkers**
 
-**Moderate metacognition (mild ASD / Asperger-type presentation):**
-Here, hierarchical linguistic processing is highly developed, but metacognitive awareness is insufficient to fully compensate for difficulties with implicit social knowledge. These individuals often struggle with figurative language, irony, turn-taking in conversation, and affective inference. Nevertheless, they may exhibit exceptional abilities within narrowly defined interest domains, constructing highly refined hierarchical knowledge systems. Many individuals historically diagnosed with Asperger’s syndrome fall into this category.
+Individuals in this category exhibit strong hierarchical organization through language and logic, combined with relatively high metacognitive awareness. As a result, they are able to compensate for difficulties with implicit social rules by explicitly learning and applying them. Social norms are treated as formal systems that can be studied, memorized, and consciously implemented.
 
-**Low metacognition (severe ASD, language-present subtype):**
-In this group, hierarchical tendencies persist but metacognitive control is minimal. Logical consistency is difficult to maintain, and social contextual understanding is severely impaired. Despite preserved surface-level language abilities, communication fails to function adaptively within social contexts. Echolalia, scripted speech, sensory hypersensitivity, and intense rigidity are common. Because language is present, these individuals are often misunderstood as having greater functional understanding than they actually possess.
+At this level, ASD-related traits are often perceived as individual differences rather than impairments, and diagnostic thresholds may not be reached. Such individuals frequently thrive in domains that reward logical rigor and explicit reasoning, including academia, law, information technology, and scientific research.
 
 ---
 
-#### Body-Dominant ASD
+**Moderate Metacognition (High-Functioning ASD / Asperger’s): Linguistic Systemizers with Weakness in Tacit Knowledge**
 
-**High metacognition (near-typical development):**
-These individuals excel in spatial cognition, bodily control, and procedural hierarchies. They understand their own cognitive tendencies and can translate bodily knowledge into explicit instructions when required. They often thrive in fields such as craftsmanship, engineering, architecture, or surgery, where precision and procedural consistency are valued over abstract verbal reasoning.
+These individuals demonstrate exceptional ability in linguistic and logical systemization, but their metacognitive capacity is insufficient to fully compensate for deficits in processing tacit knowledge. They partially understand their own cognitive style but struggle to make implicit social information explicit.
 
-**Moderate metacognition (classical ASD presentation):**
-Bodily and spatial hierarchical processing is strong, but abstract language and social communication remain challenging. Individuals in this category may struggle in language-centered educational environments while demonstrating remarkable competence in hands-on tasks and embodied learning. This group corresponds to what has historically been labeled “classical autism,” particularly cases involving early language delay followed by later acquisition.
+Typical difficulties include:
 
-**Low metacognition (severe ASD, nonverbal subtype):**
-In this category, bodily and sensory processing dominates without sufficient metacognitive regulation. Verbal communication is minimal or absent, and abstract conceptualization is extremely limited. Repetitive motor behaviors, sensory immersion, and self-stimulatory behaviors (stimming) are prominent. These behaviors function as mechanisms for regulating overwhelming non-hierarchical sensory input.
+* Literal interpretation of metaphors and irony
+* Difficulty timing conversational turn-taking
+* Limited ability to infer others’ emotional states
+* Confusion between social conventions and sincere intentions
 
----
-
-### 3.1.6 Historical Shifts in Diagnosis and the Role of Modality
-
-Historically, diagnostic systems distinguished between language-dominant and body-dominant presentations of autism. Prior to DSM-5, Asperger’s syndrome (characterized by preserved early language development) was differentiated from autistic disorder with language delay. The unification of these categories into Autism Spectrum Disorder increased diagnostic inclusivity but obscured the internal structure underlying phenotypic diversity.
-
-The present framework restores this structure by demonstrating that ASD encompasses multiple positions within a three-dimensional space defined by **cognitive structure (hierarchical), dominant modality (language vs. body), and level of metacognition**. ASD is therefore not a single disorder but a cluster of structurally related cognitive configurations.
+Despite these challenges, they often develop extraordinarily refined hierarchical structures within their domains of interest, achieving high levels of expertise and internal coherence. Many individuals historically labeled as having “high-functioning autism” or “Asperger’s syndrome” fall into this category.
 
 ---
 
-### 3.1.7 Summary
+**Low Metacognition (Severe ASD, Language-Dominant): Linguistic Chaos and Social Context Failure**
 
-Within this theoretical framework, ASD is no longer conceptualized as a deficit or pathology intrinsic to the individual. Instead, it is understood as the manifestation of **hierarchical cognition operating in environments saturated with non-hierarchical demands**. Diagnostic labels function as shorthand indicators of position within a multidimensional cognitive space, rather than as definitive explanations.
+At this level, hierarchical tendencies are present but metacognitive control is minimal. Individuals are unable to regulate their own cognitive processes or maintain logical coherence in social contexts. Although formal language ability may be preserved—sometimes including fluent speech and advanced vocabulary—it cannot be effectively deployed for social communication.
 
-This reinterpretation shifts the focus from individual remediation toward examining the structural compatibility between cognitive types and social environments—an issue that becomes central in the subsequent discussion of social asymmetry and translation cost.
+Typical manifestations include:
+
+* Echolalia (repetition of others’ utterances)
+* Scripted or memorized conversational patterns
+* One-sided monologues that ignore interlocutor feedback
+* Extreme sensory hypersensitivity
+* Intense insistence on sameness and panic responses to change
+
+These individuals often require substantial support. Because surface-level language ability may appear intact, their difficulties are frequently misunderstood or underestimated.
+
+---
+
+#### Body-Dominant ASD: Three Levels
+
+**High Metacognition (Near-Typical Development): Artisanal Experts and Architects**
+
+These individuals excel in hierarchical organization of bodily movement, spatial cognition, and procedural knowledge. With sufficient metacognitive awareness, they can intentionally translate bodily understanding into language when required. Although verbal explanation may be challenging, they achieve high levels of mastery through practice and embodied learning.
+
+They are commonly found in fields that demand precise bodily control and spatial reasoning, such as craftsmanship, engineering, architecture, and surgery.
+
+---
+
+**Moderate Metacognition (Classical ASD): Motor Systemizers with Weakness in Abstraction**
+
+Here, bodily and spatial systemization is strong, but abstraction and linguistic explanation are difficult. Individuals partially recognize their bodily cognitive style but lack the capacity to fully articulate it.
+
+Typical difficulties include:
+
+* Understanding verbal instructions that rely on vague or abstract language
+* Comprehension of abstract concepts such as justice or friendship
+* Verbal expression of internal states
+* Academic environments centered on language-based instruction
+
+Nevertheless, these individuals often demonstrate remarkable abilities in hands-on tasks, technical replication, and intuitive spatial understanding. Many individuals historically described as having “classical autism” belong to this group.
+
+---
+
+**Low Metacognition (Severe ASD, Non-Language-Dominant): Bodily Chaos and Disconnection from Abstract Language**
+
+At this level, bodily and sensory processing dominates, but metacognitive regulation is minimal. Verbal communication is extremely limited or absent, and connection to abstract linguistic systems is weak.
+
+Typical manifestations include:
+
+* Nonverbal or minimally verbal communication
+* Immersion in sensory experience
+* Repetitive bodily movements (stereotypies)
+* Self-stimulatory behaviors (stimming) as sensory regulation
+* Extreme difficulty in reciprocal interaction
+
+These individuals require extensive support. Their bodies are overwhelmed by sensory input, and linguistic access to the social world is severely constrained.
+
+---
+
+### Historical Shifts in Diagnosis and the Role of Modality
+
+Historically, diagnostic frameworks distinguished between language-dominant presentations (e.g., Asperger’s syndrome) and body-dominant presentations (e.g., classical autism). In DSM-IV, these were treated as separate diagnoses, while DSM-5 unified them under the single category of Autism Spectrum Disorder.
+
+However, this unification obscured the internal diversity of ASD. The present theory clarifies that this diversity is not arbitrary but systematically structured by the interaction of cognitive structure, dominant modality, and level of metacognition. ASD is therefore not a single disorder but a constellation of positions within a three-dimensional cognitive space.
 
 ## **3.2 Reinterpretation of ADHD**
 
@@ -424,25 +415,21 @@ In DSM-5, Attention-Deficit/Hyperactivity Disorder (ADHD) is defined by two core
 
 However, while this framework describes *which functions fail to operate as expected* within a hierarchically structured society, it does not sufficiently explain *why* these functions fail, nor does it clarify the underlying **cognitive structure** that gives rise to ADHD-related behaviors. As a result, executive dysfunction is often treated as a deficit intrinsic to the individual, rather than as a mismatch between cognitive structure and social demands.
 
----
-
 ### **3.2.2 ADHD in the Present Theory: Non-Hierarchical Cognition and Dominant Modality**
 
 In the present theoretical framework, ADHD is reconceptualized as **the difficulty experienced by individuals with non-hierarchical cognition when adapting to a hierarchically structured society**—particularly one that demands planning, prioritization, linear time management, and rule-based behavioral inhibition.
 
 Furthermore, differences in **dominant modality (language-dominant vs. body-dominant)** account for the traditional distinction between the inattentive and hyperactive–impulsive presentations of ADHD.
 
----
+#### **Non-Hierarchical × Language-Dominant × Low Metacognition: Predominantly Inattentive Type**
 
-### **Non-Hierarchical × Language-Dominant × Low Metacognition: Predominantly Inattentive Type**
-
-#### **Cognitive Structural Characteristics**
+##### **Cognitive Structural Characteristics**
 
 In this configuration, non-hierarchical parallel processing is dominant, and metacognition is low. As a result, **all incoming information attracts attention equally**, making selective focus structurally difficult. Linguistic and conceptual thinking is active and generative, but attention continuously shifts across the network of associations rather than converging on a single focal node.
 
 The hierarchical operations required by modern society—such as distinguishing between important and unimportant tasks, sequencing actions, and sustaining attention over time—are therefore not automatically generated by the cognitive system.
 
-#### **The True Nature of “Inattention”**
+##### **The True Nature of “Inattention”**
 
 What is conventionally labeled as *inattention* is more accurately described as a state of **attending to everything simultaneously**. In non-hierarchical cognition, information exists within a flat network rather than a prioritized hierarchy. Consequently, the selective attentional filtering that hierarchical cognition performs automatically does not occur.
 
@@ -454,25 +441,23 @@ Typical manifestations include:
 * **Time management difficulties**: time cannot be organized into hierarchical structures such as deadlines, backward planning, and prioritization
 * **Planning difficulties**: hierarchical stepwise representations (“first, then, finally”) are unstable or absent
 
-#### **Expression of Language Dominance**
+##### **Expression of Language Dominance**
 
 Linguistic and conceptual activity is highly active. Ideas emerge rapidly and in abundance, but cannot be hierarchically organized into executable plans. In conversation, topics frequently jump through associative links, resulting in digressions and loss of the original thread. During reading, associative expansion may pull attention away from the primary textual context.
 
-#### **Social Evaluation**
+##### **Social Evaluation**
 
 Individuals in this quadrant are often described as “intelligent but inexplicably incapable of execution.” Despite high intellectual potential, they fail to meet the executive demands of hierarchical society and are frequently misinterpreted as lazy or unmotivated.
 
----
+#### **Non-Hierarchical × Body-Dominant × Low Metacognition: Predominantly Hyperactive–Impulsive Type**
 
-### **Non-Hierarchical × Body-Dominant × Low Metacognition: Predominantly Hyperactive–Impulsive Type**
-
-#### **Cognitive Structural Characteristics**
+##### **Cognitive Structural Characteristics**
 
 In this configuration, non-hierarchical bodily processing is dominant, and metacognition is low. The body continuously explores the network of environmental affordances. Remaining physically still is equivalent to forcibly suppressing the natural dynamics of non-hierarchical cognition.
 
 Hierarchical societal demands—such as stillness, waiting one’s turn, and planned action—are therefore structurally incompatible with this cognitive organization.
 
-#### **The True Nature of “Hyperactivity”**
+##### **The True Nature of “Hyperactivity”**
 
 What is conventionally labeled as *hyperactivity* is more accurately understood as **the bodily expression of continuous network exploration**. Non-hierarchical cognition operates dynamically across networks, and bodily movement synchronizes with this exploration.
 
@@ -484,7 +469,7 @@ Typical manifestations include:
 * **Constant manipulation of objects**: tactile network exploration
 * **Continuous speech**: bodily and linguistic processes operate in parallel
 
-#### **The True Nature of “Impulsivity”**
+##### **The True Nature of “Impulsivity”**
 
 What is conventionally labeled as *impulsivity* reflects the **absence of hierarchical inhibition**. In hierarchical cognition, behavior is mediated through sequential stages such as deliberation, evaluation, and execution. In non-hierarchical cognition, perception and action are directly linked within the network, resulting in immediate behavioral output.
 
@@ -496,23 +481,19 @@ Typical manifestations include:
 * **Acting before thinking**: cognition and action occur in parallel
 * **Immediate gratification**: lack of hierarchical future-oriented time representation
 
-#### **Expression of Body Dominance**
+##### **Expression of Body Dominance**
 
 Bodily sensation, movement, and spatial exploration form the core of cognition. Verbal explanation and abstract planning are less effective than physical trial-and-error. Individuals often demonstrate high concentration and competence in physical activities such as sports, dance, or construction, while experiencing significant distress in sedentary, lecture-based environments.
 
-#### **Social Evaluation**
+##### **Social Evaluation**
 
 Such individuals are frequently labeled as “restless” or “problematic.” Natural exploratory bodily activity conflicts with hierarchical social norms emphasizing stillness, order, and planning, leading to moralized misinterpretations such as poor discipline or selfishness.
 
----
-
-### **Understanding the Combined Presentation**
+#### **Understanding the Combined Presentation**
 
 DSM-5 identifies a *combined presentation* in which both inattentive and hyperactive–impulsive features are prominent. In the present theory, this corresponds to a state in which **both linguistic and bodily modalities are non-hierarchically activated**, with dominance fluctuating depending on context rather than remaining fixed.
 
----
-
-### **Reinterpreting Executive Dysfunction**
+#### **Reinterpreting Executive Dysfunction**
 
 ADHD has long been conceptualized as a disorder of executive function (Barkley, 1997). In contrast, the present framework argues that ADHD does not reflect a failure of executive function per se, but rather the **presence of a non-hierarchical executive system operating within a hierarchically structured society**.
 
@@ -721,8 +702,6 @@ In modern society, translation cost is borne almost exclusively by non-hierarchi
 
 Rather, it constitutes a form of structural injustice: **a violation of cognitive rights, in which one cognitive type is compelled to adopt the language and structure of another in order to survive**. Much of this burden cannot be eliminated through individual effort, self-improvement, or medical treatment. The reduction of translation cost is achievable only through the redesign of social structures, not through the modification of individuals.
 
----
-
 ### 4.3.2 Social Pressure (“Noise”)
 
 Translation cost is not limited to the cognitive effort required for translation. Hierarchical society also imposes the internalization of its value system upon non-hierarchical individuals. This is experienced as the constant reception and attempted application of **values that contradict one’s own cognitive structure**. In this paper, this phenomenon is referred to metaphorically as *“noise.”*
@@ -734,8 +713,6 @@ More critically, this social pressure occupies working memory. Non-hierarchical 
 
 In the author’s case, a fundamental indifference toward social values prevents the reception of this noise. Social norms do not constitute “salient nodes” within the author’s galaxy-like cognitive structure and therefore are not captured by its gravitational field. However, this is an unusual trait. Most non-hierarchical individuals remain continuously exposed to social noise.
 
----
-
 ### 4.3.3 “Adaptation” as Assimilation
 
 What is labeled as “support” within medicine, education, and welfare is often, in practice, a form of assimilation pressure toward hierarchical cognition. The term *adaptation* appears neutral, but its substantive meaning is alignment with hierarchical society.
@@ -744,13 +721,9 @@ Pharmacological and behavioral interventions alike aim to increase conformity to
 
 Genuine support does not consist in assimilation into hierarchical cognition, but in the provision of environments in which non-hierarchical individuals can live while preserving their own cognitive structure.
 
----
-
 ## 4.4 Embodiment of Translation Cost
 
 When translation cost accumulates chronically, it manifests as physical symptoms, psychological distress, and social consequences. These manifestations are not “symptoms of disability,” but traces of structural violence.
-
----
 
 ### 4.4.1 Physical Symptoms
 
@@ -759,8 +732,6 @@ Translation cost frequently manifests as physical symptoms. Chronic headaches, i
 In one case, chronic headaches persisting from childhood into the present (age 45) were reported. These headaches can be interpreted as the bodily embodiment of sustained cognitive overload caused by dual processing: performing translation work while operating within a hierarchical society.
 
 In the same case, frequent incontinence (both urinary and fecal) occurred throughout childhood and continued until age thirteen. These episodes occurred in various locations (school, on the way home, at the entrance of the home), and the individual reported an inability to understand why they endured the urge until the limit was exceeded. One interpretation is that cognitive resources were consumed by translation work and emotional burden (including a harsh family environment), leaving insufficient resources for bodily regulation. The body persistently refused adaptation to hierarchical society.
-
----
 
 ### 4.4.2 Psychological Symptoms and Social Consequences
 
@@ -772,13 +743,9 @@ Withdrawal from translation is socially observed as “maladaptation.” Social 
 
 In the preceding chapters, this paper has examined differences in cognitive types, the ways in which these differences are expressed through diagnostic categories, and the translation costs imposed on non-hierarchical cognition by hierarchical society. In this chapter, **cognitive segregation** is proposed as a response to this structural problem.
 
----
-
 ### 5.1 Problems with the Coexistence Model
 
 The dominant ideal in contemporary society is *inclusion*. The Convention on the Rights of Persons with Disabilities, the neurodiversity movement, and diversity-oriented management all promote the vision that diverse individuals should coexist within the same social spaces. This ideal emerged as a progressive reaction against historical practices of exclusion and segregation. However, in the context of cognitive-type differences, the coexistence model contains fundamental flaws.
-
----
 
 #### 5.1.1 Inclusion as Assimilation Pressure
 
@@ -788,8 +755,6 @@ Reasonable accommodations likewise represent only limited adjustments that presu
 
 The rhetoric of “respecting diversity” is often hollow. Hierarchical society may claim to respect non-hierarchical individuals while simultaneously demanding that they become more hierarchical. Adaptation training, social skills training, and pharmacological interventions all function as attempts to convert non-hierarchical cognition into hierarchical forms.
 
----
-
 #### 5.1.2 Structural Incompatibility of Cognitive Architectures
 
 The core problem of the coexistence model is its failure to recognize the structural incompatibility between hierarchical and non-hierarchical cognition. This is not a matter of stylistic preference or individual inclination; it is a difference at the most fundamental level of information organization.
@@ -797,8 +762,6 @@ The core problem of the coexistence model is its failure to recognize the struct
 When cognition is hierarchized, non-hierarchical individuals cannot function optimally. Organizing information hierarchically, prioritizing tasks, and processing information in stepwise sequences are inherently unnatural and cognitively costly for non-hierarchical cognition. Conversely, when cognition is flattened, hierarchical individuals struggle. Information that exists in parallel without stable hierarchy or fixed structure produces confusion and anxiety for hierarchical cognition.
 
 Attempts to “respect both sides” often result in the partial suppression of both. Requiring individuals to switch between hierarchical and non-hierarchical modes depending on context imposes translation costs on both cognitive types. The outcome is an environment in which neither type can function optimally.
-
----
 
 #### 5.1.3 The Persistence of Translation Cost
 
@@ -818,8 +781,6 @@ The core claim of cognitive segregation is that **translation should be minimize
 
 Through segregation, each cognitive type can fully realize its capacities. Hierarchical types excel at systematic knowledge construction, institutional design, and long-term planning. Non-hierarchical types excel at creativity, adaptability, and immediate responsiveness to situations. However, these capacities emerge only within appropriate environments. Placing hierarchical individuals in non-hierarchical environments produces confusion; placing non-hierarchical individuals in hierarchical environments produces exhaustion. Cognitive segregation enables each type to live within conditions suited to its cognitive nature.
 
----
-
 ### 5.2.2 Spatial Segregation
 
 *Spatial segregation* refers to the construction of physically distinct environments. Hierarchical cities and non-hierarchical communities coexist in parallel.
@@ -830,8 +791,6 @@ Non-hierarchical communities emphasize fluid use of space, project-based collabo
 
 This spatial segregation does not imply complete disconnection. Movement, visits, and interaction between environments remain possible. However, the foundation of everyday life is situated within environments aligned with one’s own cognitive structure.
 
----
-
 ### 5.2.3 Institutional Segregation
 
 *Institutional segregation* involves designing social institutions—such as education, labor, and economic systems—according to cognitive types.
@@ -841,8 +800,6 @@ In education, curriculum-based education for hierarchical types coexists with ex
 In labor systems, organization-based work for hierarchical types coexists with project-based work for non-hierarchical types. The former assumes corporate structures, formal positions, and long-term employment. The latter assumes freelance work, collaborative projects, and short-term contracts. Individuals choose work styles consistent with their cognitive type.
 
 In economic systems, monetary economies for hierarchical types coexist with gift-based or relational economies for non-hierarchical types. The former emphasizes accumulation, investment, and planned consumption. The latter emphasizes immediacy, sharing, and relationship-based exchange. These systems may interact at interfaces, but function according to different principles in everyday life.
-
----
 
 ### 5.2.4 Informational Segregation
 
@@ -906,8 +863,6 @@ Cognitive segregation is therefore not a tool of oppression but a **means of lib
 
 This demand is not merely about efficiency. It is about the **restoration of self-determination over one’s mode of existence**. As argued in Chapter 4, translation cost represents a **violation of cognitive rights**. The demand to escape this violation—the plea of “let us be segregated”—is an **ethical and existential claim for survival**. Accordingly, this paper argues that cognitive segregation represents one of the most ethically grounded forms of social design aimed at liberation from structural violence.
 
----
-
 ### 5.4.2 Feasibility
 
 While cognitive segregation may be compelling in principle, the question remains: is it feasible? The answer proposed here is **gradual implementation**.
@@ -921,8 +876,6 @@ The third stage is **institutional recognition**. If cognitive segregation demon
 The primary obstacle to implementation is the **vested interests of hierarchical society**. Hierarchical systems benefit from incorporating non-hierarchical individuals through “inclusion,” extracting their labor, creativity, and consumption. Cognitive segregation threatens this extraction by enabling independence, and resistance should therefore be expected.
 
 However, in the long term, segregation benefits both sides. Hierarchical individuals are relieved of the costs associated with managing, educating, or treating non-hierarchical individuals. When each cognitive type operates in an environment optimized for its structure, overall human productivity and creativity increase. Cognitive segregation is not a zero-sum solution, but a **positive-sum outcome**.
-
----
 
 ### 5.4.3 Responses to Anticipated Criticisms
 
@@ -1153,8 +1106,6 @@ Key research questions include:
 * Whether default mode network hyperactivity reported in ADHD reflects non-hierarchical cognition
 * Reinterpretation of existing findings through the eight-quadrant framework
 
----
-
 ### 6.3.2 Theoretical Refinement
 
 The second direction is further refinement of the theoretical framework presented in this paper.
@@ -1235,8 +1186,6 @@ Potential connections include:
 * **Executive function theories**: Differences in executive control across cognitive structures
 * **Learning theories**: Connections with Kolb’s experiential learning theory (see Appendix)
 * **Developmental theories**: Dialogue with Piagetian and Vygotskian models
-
----
 
 ### 6.3.3 Applied and Practice-Oriented Research
 
@@ -1426,8 +1375,6 @@ Singer, J. (1998). *Odd people in: The birth of community amongst people on the 
 
 World Health Organization. (2019). *International classification of diseases* (11th ed.). WHO.
 
----
-
 ### Additional Recommended Literature (by Category)
 
 #### Neurodiversity and Insider Research
@@ -1509,8 +1456,6 @@ Kolb's learning theory is widely influential in educational practice. However, f
 
 This material elaborates on these issues and suggests the possibility of a new learning theory based on cognitive types.
 
----
-
 ## 2. Overview of Kolb's Learning Theory
 
 ### 2.1 The Experiential Learning Cycle
@@ -1534,8 +1479,6 @@ Kolb proposed four learning styles based on which stages of the cycle an individ
 * **Accommodating**: AE + CE. Emphasizes intuition, trial-and-error, and adaptation.
 
 Individuals are generally thought to possess one primary style, and education is advised to align with this style.
-
----
 
 ## 3. Critique 1: Bias toward the Assimilating Style in Social Systems
 
@@ -1574,8 +1517,6 @@ For non-hierarchical learners, the assimilating style is unnatural.
 
 The current educational system negatively evaluates this learning style as "shallow" or "unsystematic." However, the problem lies not with the learner, but with the system's bias toward hierarchical cognition.
 
----
-
 ## 4. Critique 2: Overlooking Metacognitive Transcending of Styles
 
 ### 4.1 Assumption of Fixed Styles
@@ -1601,8 +1542,6 @@ This is the same mechanism described in the main paper for the formation of the 
 ### 4.3 Kolb's Oversight
 
 Kolb's theory overlooks this flexibility enabled by metacognition. Learning styles are not fixed but developmental and context-dependent. The goal of education should not be to accommodate a specific style, but to foster metacognition so that learners can master and utilize multiple styles.
-
----
 
 ## 5. Critique 3: Invisibility of Non-Hierarchical Learning Styles
 
@@ -1633,8 +1572,6 @@ While both are valid forms of learning, Kolb's theory implicitly assumes only th
 ### 5.3 Confusion of Diverging and Non-Hierarchical
 
 Kolb's "Diverging" style superficially appears similar to non-hierarchical cognition, emphasizing diverse perspectives and associative thinking. However, the Diverging style remains within the framework of the four-stage cycle. True non-hierarchical learning transcends the cycle itself.
-
----
 
 ## 6. Restructuring Learning Theory Based on Cognitive Types
 
@@ -1677,8 +1614,6 @@ Hybrid learners with developed metacognition:
 
 The ideal of education is to foster this hybrid type. However, the current system trains only the hierarchical style, compelling non-hierarchical learners to pay continuous translation costs.
 
----
-
 ## 7. Implications for Educational Practice
 
 ### 7.1 Necessity of Multiple Tracks
@@ -1713,8 +1648,6 @@ Teachers must utilize multiple teaching methods rather than a single pedagogy:
 * Exploratory facilitation for non-hierarchical students.
 * Understanding student cognitive types and providing appropriate learning environments.
 
----
-
 ## 8. Conclusion
 
 Kolb's learning theory has made significant contributions to educational practice. However, it suffers from a bias toward hierarchical cognition, the neglect of metacognition, and the invisibility of non-hierarchical learning.
@@ -1722,8 +1655,6 @@ Kolb's learning theory has made significant contributions to educational practic
 From the perspective of the Two-Type Theory of Human Cognition, learning theory must also be restructured on the premise of cognitive diversity. Recognizing hierarchical and non-hierarchical learning styles as equally valid, offering multiple tracks, and fostering the ability to master both through metacognition—this is the vision of an education that respects cognitive diversity.
 
 This supplementary material has offered merely a glimpse of the implications for learning theory. Further detailed theorization and empirical research are required. Education is one of the most crucial domains of social systems and plays a central role in realizing cognitive segregation.
-
----
 
 ## References (For Supplementary Material)
 
@@ -1734,7 +1665,5 @@ Coffield, F., Moseley, D., Hall, E., & Ecclestone, K. (2004). *Learning styles a
 Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. *Psychological Science in the Public Interest*, 9(3), 105-119.
 
 Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice*, 41(2), 64-70.
-
----
 
 **This supplementary material is an appendix to the main paper and is not a standalone article. It provides a more detailed development of the critique of Kolb's learning theory. In the future, it may be possible to develop this into an independent paper based on this foundation.**
