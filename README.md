@@ -1,5 +1,7 @@
 [日本語 (JA)](#ja) | [English (EN)](#en)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17993829.svg)](https://doi.org/10.5281/zenodo.17993829)
+
 ---
 
 # 人類認知構造2タイプ仮説ドラフト "Two-Type Theory of Human Cognition"
