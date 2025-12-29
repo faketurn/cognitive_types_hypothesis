@@ -1,4 +1,14 @@
-# 人類認知構造2タイプ仮説 (Cognitive Types Hypothesis)
+> **📢 Official Version / 正式版**
+> 
+> The formal version of this paper is available here:
+> 
+> 本論文の正式版はこちらで公開されています：
+> 
+> [Beyond the Medical Model: The Two-Type Theory of Human Cognition and the Proposal for Cognitive Segregation (Voluntary Separation as Liberation)](https://github.com/faketurn/Cognitive-Segregation)
+
+--
+
+# 人類認知構造2タイプ仮説ドラフト (Cognitive Types Hypothesis draft)
 
 ## English Version
 [Click here to read the English README](README_en.md)
