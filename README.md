@@ -1,10 +1,12 @@
 # cognitive-types-hypothesis  
 
-[日本語 (JA)](##日本語) | [English (EN)](##English)
+[日本語 (JA)](#ja) | [English (EN)](#en)
 
 ---
 
-## 日本語
+<a id="ja"></a>
+
+## 日本語（生成過程の説明）
 
 **―「二種類の認知」理論の生成過程リポジトリ―**
 
@@ -38,7 +40,9 @@
 
 ---
 
-## English
+<a id="en"></a>
+
+## English (Overview for international readers)
 
 # cognitive-types-hypothesis  
 **— Repository for Drafts and Generative Process —**
